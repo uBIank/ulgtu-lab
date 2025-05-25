@@ -5,3 +5,7 @@ text.txt
 Lk1.ipynb
 Lk2.ipynb
 /.ipynb_checkpoints
+/отчёты
+/lr6/__pycache__
+/lr6/config.py
+/lr6/.handler-saves
